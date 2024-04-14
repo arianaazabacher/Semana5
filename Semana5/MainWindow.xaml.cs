@@ -46,7 +46,7 @@ namespace Semana5
 
 
         // Cadena de conexión a la base de datos
-        private string connectionString = "Data Source=DAVILA-FERNANDO\\SQLEXPRESS;Initial Catalog=NeptunoDB;User Id=Davila;Password=Davila12";
+        private string connectionString = "Data Source=LAB1504-14\\SQLEXPRESS;Initial Catalog=NeptunoDB;User Id=Davila;Password=Davila12";
 
         public MainWindow()
         {
