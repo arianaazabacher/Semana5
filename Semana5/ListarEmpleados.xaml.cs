@@ -30,7 +30,7 @@ namespace Semana5
             public string cargo { get; set; }
             public string Tratamiento { get; set; }
         }
-        private string connectionString = "Data Source=DAVILA-FERNANDO\\SQLEXPRESS;Initial Catalog=NeptunoDB;User Id=Davila;Password=Davila12";
+        private string connectionString = "Data Source=LAB1504-14\\SQLEXPRESS;Initial Catalog=NeptunoDB;User Id=ariana;Password=123456";
         //private DataTable dataTable = new DataTable();
 
         public ListarEmpleados()
